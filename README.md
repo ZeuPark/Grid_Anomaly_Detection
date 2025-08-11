@@ -1,9 +1,5 @@
 
----
 
-## **README – `grid_anomaly_detection`**
-
-```markdown
 # Grid Anomaly Detection
 
 **Objective**  
